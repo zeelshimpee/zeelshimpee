@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZeelShimpee</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="data" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif"
+<img align="right" alt="data" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
